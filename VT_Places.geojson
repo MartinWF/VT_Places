@@ -40,3 +40,25 @@
     }
 ]
 }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "Restaurant",
+        "Name": "Rustic Roots",
+        "Description": "Hidden gem of a restaurant. It serves delicious food with fresh ingredients for breakfast and lunch."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22647333145142,
+          44.37793106654283
+        ]
+      }
+    }
+  ]
+}
