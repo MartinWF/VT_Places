@@ -38,6 +38,7 @@
         ]
       }
     },
+    {
   "type": "FeatureCollection",
   "features": [
     {
@@ -60,5 +61,3 @@
   ]
 }
 
-]
-}
