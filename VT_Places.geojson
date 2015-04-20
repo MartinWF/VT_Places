@@ -74,6 +74,24 @@
       }
     },
     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Parker Pie Co. - West Glover, VT",
+        "Description": "Best Pizza in the Northeast Kingdom",
+        "Category": "Lunch and Dinner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22729682922362,
+          44.72883896236687
+        ]
+      }
+    },
+    {
     "type": "Feature",
       "properties": {
         "marker-color": "#ff8000",
