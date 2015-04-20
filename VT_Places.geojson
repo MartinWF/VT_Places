@@ -72,6 +72,23 @@
           44.18408124899558
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Prohibition Pig",
+        "description": "With meat provided from local farms, Prohibition Pig's menu will have you drooling! Start with the not so skinny Duck Fat Fries and finish your evening with a chocolate caramel dump cake for an amazing dinner! Throw in a tasty houseburger and ProPig craft beer for a well rounded meal! "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7560031414032,
+          44.33707902227316
+        ]
+      }
     }
 ]
 }
