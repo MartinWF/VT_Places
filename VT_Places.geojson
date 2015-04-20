@@ -37,6 +37,26 @@
           44.1272782929023
         ]
       }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "The Bobcat Cafe",
+        "Description": "Contemporary comfort food and hand-crafted beers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.07815790176392,
+          44.1328882805581
+        ]
+      }
     }
 ]
 }
