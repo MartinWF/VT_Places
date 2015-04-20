@@ -37,6 +37,143 @@
           44.1272782929023
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "Name": "Ben & Jerry's Factory",
+        "Description": "The legendairy ice cream place",
+        "Category": "Other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74014592170715,
+          44.35290005504388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "bakery",
+        "Name": "Vergenne's Laundry",
+        "Description": "Artisan bread, pastries and coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2530164718628,
+          44.167237346678746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "Name": "Three Penny Taproom",
+        "Description": "Restaurant/bar with a dope selection of beer on tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5750720500946,
+          44.26068561009795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Skinny Pancake",
+        "Description": "The local Vermont Creperie for all imaginable savory and sweet crepes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57468044757843,
+          44.26039170822985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Skinny Pancake",
+        "Description": "The local Vermont Creperie for all imaginable savory and sweet crepes, plus good music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21951031684875,
+          44.47708693062662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Skinny Pancake",
+        "Description": "The local Vermont Creperie for all imaginable savory and sweet crepes. This outlet is at the departure gates, after immigration control."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15147876739502,
+          44.472868678215804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Pho Hong",
+        "Description": "Pho-nomenal pho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20711851119995,
+          44.48890559977366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Three Squares Cafe",
+        "Description": "Best green eggs and ham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.25256049633026,
+          44.167448983333855
+        ]
+      }
     }
 ]
 }
