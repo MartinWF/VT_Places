@@ -24,6 +24,23 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Cafe Provence",
+        "Description": "Great authentic French Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08858633041382,
+          43.79917345792167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "swimming",
