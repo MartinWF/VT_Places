@@ -73,7 +73,7 @@
         ]
       }
     },
-    {
+        {
       "type": "Feature",
       "properties": {
         "marker-color": "#ff8000",
