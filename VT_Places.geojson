@@ -39,9 +39,6 @@
       }
     },
     {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "marker-color": "#804000",
