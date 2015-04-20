@@ -37,6 +37,24 @@
           44.1272782929023
         ]
       }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Park Squeeze Diner",
+        "destription": "For a casual burger and brew, head to the Park Squeeze! Local meat and craft beers make Wednesday Night 1/2 Burger night an essential weeknight treat!",
+        "type": "Dinner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2513803243637,
+          44.16811851975084
+        ]
+      }
     }
 ]
 }
