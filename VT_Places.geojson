@@ -41,7 +41,7 @@
        {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004080",
+        "marker-color": "#ff8000",
         "marker-size": "medium",
         "marker-symbol": "restaurant",
         "name": "Park Squeeze Diner",
