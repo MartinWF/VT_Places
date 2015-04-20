@@ -56,6 +56,23 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "bakery",
+        "Name": "Vergenne's Laundry",
+        "Description": "Artisan bread, pastries and coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2530164718628,
+          44.167237346678746
+        ]
+      }
+    },
      {
       "type": "Feature",
       "properties": {
