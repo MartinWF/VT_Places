@@ -37,6 +37,181 @@
           44.1272782929023
         ]
       }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "American Flatbread",
+        "Description": "Come for delicious flatbread pizza, always made with fresh ingredients"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16915452480316,
+          44.01304925399343
+        ]
+      }
     }
 ]
+},
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Cafe Provence",
+        "Description": "Great authentic French Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08858633041382,
+          43.79917345792167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "Name": "Two Brothers Tavern",
+        "Description": "Classic bar food and great drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16982507705688,
+          44.01223135434858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Jessica's at Swift House Inn",
+        "Dsecription": "Great food, great drinks, great ambiance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16533505916595,
+          44.01828431614113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "Name": "Storm Cafe",
+        "Description": "Best brunch in town! Also have great dinners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16956758499146,
+          44.01315341964784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "Name": "Otter Creek Bakery",
+        "Description": "Coffee, tea, breakfast snacks - Otter Creek is always a great way to start your day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17005038261414,
+          44.01205774212364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Sabai Sabai",
+        "Description": "Delicious Thai food (best in all of VT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16774368286133,
+          44.01362794975828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "51 Main at the Bridge",
+        "Description": "Great for a night out with friends or family, often has live entertainment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16837131977081,
+          44.013600944081546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "fast-food",
+        "Name": "A&W Restaurant",
+        "Description": "In your car dining, best burgers and shakes in town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13045024871826,
+          43.98534241238967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Waybury Inn",
+        "Description": "A classic dining experience, great food all around"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08794260025024,
+          43.97098224750736
+        ]
+      }
+    }
+  ]
 }
