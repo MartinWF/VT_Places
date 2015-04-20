@@ -54,7 +54,43 @@
           44.37793106654283
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Bearded Frog",
+        "Description": "A creative gastro pub in an historic inn. Unusual game meats offered and a great bar & happy hour specials."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2270097732544,
+          44.38101749648282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Folino's Wood Fired Pizza",
+        "Description": "Fantastic pizza in a rustic atmosphere. BYOB, note that Fiddlehead is right next door."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23264241218567,
+          44.36631619716195
+        ]
+      }
     }
+  ]
+}
   ]
 }
 
