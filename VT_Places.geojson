@@ -55,6 +55,22 @@
           44.16811851975084
         ]
       }
+    },
+    "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "The Mad Taco",
+        "description": "If you're mad for tacos, this place is for you! The funky, small town vibe paired with the most amazing tacos in Vermont this is the place to go! Only 45 minutes away from Middlebury, hit the small snack shack up after a day of skiing. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8357720375061,
+          44.18408124899558
+        ]
+      }
     }
 ]
 }
